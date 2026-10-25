@@ -12,21 +12,6 @@
 
 DocMind is a full‑stack **Retrieval‑Augmented Generation (RAG)** platform that allows users to upload documents, intelligently extract and index their content, and converse with them through an AI-powered chat interface. It combines semantic vector search with OpenAI language models to deliver context-grounded answers with source citations — all behind a secure, per-user authentication layer.
 
----
-
-## 📸 Screenshots
-
-> Screenshots from `frontend/screenshots/`
-
-| Chat Interface | Document Upload |
-|:-:|:-:|
-| ![Chat](frontend/screenshots/Screenshot%202026-08-08%20at%205.21.41%20PM.png) | ![Upload](frontend/screenshots/Screenshot%202026-08-08%20at%205.22.02%20PM.png) |
-
-| Semantic Search | Chunk Viewer |
-|:-:|:-:|
-| ![Search](frontend/screenshots/Screenshot%202026-08-08%20at%205.22.12%20PM.png) | ![Chunks](frontend/screenshots/Screenshot%202026-08-08%20at%205.22.23%20PM.png) |
-
----
 
 ## ✨ Features
 
@@ -1300,10 +1285,4 @@ Serve the `dist/` directory with any static file server (Nginx, Apache, Cloudfla
 
 ---
 
-## 📄 License
-
-No license file was found in the repository at the time of writing. Please contact the repository maintainer to clarify the terms under which this code may be used, distributed, or modified.
-
----
-
-*Built by Substring Technologies — https://substringtechnologies.com*
+*Built by Ayush Patel*
